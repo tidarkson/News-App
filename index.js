@@ -14,14 +14,14 @@ var newsDataArray = [];
 
 // APIs 
 const API_KEY = "dcfa9cacf813ccac7aec5e0afd86a7e2";
-const HEADLINE_NEWS = "http://api.mediastack.com/v1/news?countries=us&access_key="; 
-const GENERAL_NEWS = "http://api.mediastack.com/v1/news?countries=us&categories=general&access_key=";
-const HEALTH_NEWS = "http://api.mediastack.com/v1/news?countries=us&categories=health&access_key=";
-const BUSINESS_NEWS = "http://api.mediastack.com/v1/news?countries=us&categories=business&access_key=";
-const SPORTS_NEWS = "http://api.mediastack.com/v1/news?countries=us&categories=sports&access_key=";
-const TECHNOLOGY_NEWS = "http://api.mediastack.com/v1/news?countries=us&categories=technology&access_key=";
-const ENTERTAINMENT_NEWS = "http://api.mediastack.com/v1/news?countries=us&categories=entertainment&access_key=";
-const SEARCH_NEWS = "https://newsapi.org/v2/everything?q="
+const HEADLINE_NEWS = "https://api.mediastack.com/v1/news?countries=us&access_key="; 
+const GENERAL_NEWS = "https://api.mediastack.com/v1/news?countries=us&categories=general&access_key=";
+const HEALTH_NEWS = "https://api.mediastack.com/v1/news?countries=us&categories=health&access_key=";
+const BUSINESS_NEWS = "https://api.mediastack.com/v1/news?countries=us&categories=business&access_key=";
+const SPORTS_NEWS = "https://api.mediastack.com/v1/news?countries=us&categories=sports&access_key=";
+const TECHNOLOGY_NEWS = "https://api.mediastack.com/v1/news?countries=us&categories=technology&access_key=";
+const ENTERTAINMENT_NEWS = "https://api.mediastack.com/v1/news?countries=us&categories=entertainment&access_key=";
+// const SEARCH_NEWS = "https://newsapi.org/v2/everything?q="
 
 // http://api.mediastack.com/v1/profootballtalk?countries=us&categories=health&access_key=dcfa9cacf813ccac7aec5e0afd86a7e2&search=sports
 // http://api.mediastack.com/v1/news?access_key=dcfa9cacf813ccac7aec5e0afd86a7e2&countries=us
